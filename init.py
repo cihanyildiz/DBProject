@@ -9,3 +9,5 @@ for row in mobile_records:
     print("", row[0],)
     print("", row[1])
     print("", row[2], "\n")
+
+print(2)
